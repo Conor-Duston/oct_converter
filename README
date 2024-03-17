@@ -1,0 +1,6 @@
+This project aims to provide fast conversion between base 10 to base 8 in C.
+
+Notes about building the project:
+    This project must be made from the project directory
+    Run MAKE to make library for project output
+    
